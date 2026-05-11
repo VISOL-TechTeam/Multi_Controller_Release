@@ -1,4 +1,7 @@
-Teams 다운로드 링크(권한:비솔 구성원)
-https://ym720.sharepoint.com/:u:/s/1/IQC4B_Awo0VhSYURymeqeGGYAY7Ft6tEyCe7IXD8EuWwq4c?e=ZVVZfo
+Teams MultiOS 다운로드 링크(권한:비솔 구성원)
+- 50GB 용량으로 저장공간이 128gb 이하 일때 사용
+https://ym720.sharepoint.com/:f:/s/1/IgB9aXdFb2yWSaIFxc0xXZK7Add9cqyW4JYXNF9apfeqUeY?e=iXQJn7
 
+MultiOS Dataserver 경로
+- 100GB 용량으로 저장공간이 256gb 이상이며 추가 공간이 10gb 이상 필요할 경우 사용
 \\VisolNAS\dataserver\04)기술부\02.업무분야별 분류\HW\2026 기술부\HSL\MultiController\6. 완료
